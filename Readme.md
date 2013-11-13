@@ -1,24 +1,12 @@
 # node-mysql
 
-[![Build Status](https://secure.travis-ci.org/felixge/node-mysql.png)](http://travis-ci.org/felixge/node-mysql)
+# NOTE: THIS IS AN EXPERIMENTAL BRANCH THAT REMOVES MANY FEATURES.
 
 ## Install
 
-```bash
-npm install mysql@2.0.0-alpha9
 ```
-
-Despite the alpha tag, this is the recommended version for new applications.
-For information about the previous 0.9.x releases, visit the [v0.9 branch][].
-
-Sometimes I may also ask you to install the latest version from Github to check
-if a bugfix is working. In this case, please do:
-
+npm install http://github.com/iarna/node-mysql/tarball/minimal
 ```
-npm install felixge/node-mysql
-```
-
-[v0.9 branch]: https://github.com/felixge/node-mysql/tree/v0.9
 
 ## Introduction
 
